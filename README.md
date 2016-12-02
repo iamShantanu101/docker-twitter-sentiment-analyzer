@@ -9,7 +9,6 @@ The image is available directly from [https://index.docker.io](https://hub.docke
 ## Introduction
 Docker image to analyse and visualize sentiment of tweets in real-time on a world map using Apache Spark ecosystem (Spark MLlib + Spark Streaming + Spark SQL).
 
-For more details on this project and the code associated with it, please check the [blogpost](http://P7h.org/blog/2016/08/21/spark-twitter-sentiment/).<br>
 Also, README of [https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib](https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib "» GitHub Repo") has details on how to execute this project.
 
 ## Get this Docker image
