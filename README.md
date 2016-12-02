@@ -1,6 +1,5 @@
 # docker-twitter-sentiment-analyzer
 [![](https://images.microbadger.com/badges/image/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)](https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2)
-![](https://img.shields.io/docker/automated/p7hb/p7hb-docker-mllib-twitter-sentiment.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/p7hb/p7hb-docker-mllib-twitter-sentiment.svg)](https://hub.docker.com/r/p7hb/p7hb-docker-mllib-twitter-sentiment/) [![Size](https://images.microbadger.com/badges/image/p7hb/p7hb-docker-mllib-twitter-sentiment.svg)](https://microbadger.com/images/p7hb/p7hb-docker-mllib-twitter-sentiment) [![HitCount](https://hitt.herokuapp.com/P7h/p7hb-docker-mllib-twitter-sentiment.svg)](https://github.com/P7h/p7hb-docker-mllib-twitter-sentiment)
 
 Dockerfiles for ***Twitter sentiment analysis with Spark MLlib and visualization*** referenced by [https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib](https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib "» GitHub Repo").
 
