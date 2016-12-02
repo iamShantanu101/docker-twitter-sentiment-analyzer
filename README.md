@@ -1,5 +1,6 @@
 # docker-twitter-sentiment-analyzer
-[![](https://images.microbadger.com/badges/image/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)](https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2)
+[![](https://images.microbadger.com/badges/version/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)]     
+ (https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2)
 
 Dockerfiles for ***Twitter sentiment analysis with Spark MLlib and visualization*** referenced by [https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib](https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib "» GitHub Repo").
 
@@ -19,7 +20,7 @@ There are 2 ways of getting this image:
 2. Pull the image from Docker Hub
 
 ### Build Docker image
-Copy the [`Dockerfile`](https://github.com/P7h/p7hb-docker-mllib-twitter-sentiment/blob/master/Dockerfile) and the other 2 supporting files: [`bootstrap.sh`](https://github.com/P7h/p7hb-docker-mllib-twitter-sentiment/blob/master/bootstrap.sh) and [`exec_spark_jobs.sh`](https://github.com/P7h/p7hb-docker-mllib-twitter-sentiment/blob/master/exec_spark_jobs.sh) to a folder on your local machine and then invoke the following command.
+Copy the [`Dockerfile`](https://github.com/iamShantanu101/docker-twitter-sentiment-analyzer/blob/master/Dockerfile) and the other 2 supporting files: [`bootstrap.sh`](https://github.com/iamShantanu101/docker-twitter-sentiment-analyzer/blob/master/bootstrap.sh) and [`run_spark_jobs.sh`](https://github.com/iamShantanu101/docker-twitter-sentiment-analyzer/blob/master/run_spark_jobs.sh) to a folder on your local machine and then invoke the following command.
 
     docker build -t ishantanu16/docker-twitter-sentiment-analyzer:1.6.2 .
 
@@ -38,7 +39,7 @@ Please check the README of the [Twitter-Sentiment-Analyzer-Spark-MLlib project](
 
 
 ## Helpful links
-2. Docker Image on Docker Hub Registry: [https://hub.docker.com/r/p7hb/p7hb-docker-mllib-twitter-sentiment/](https://hub.docker.com/r/p7hb/p7hb-docker-mllib-twitter-sentiment/).
+2. Docker Image on Docker Hub Registry: [https://hub.docker.com/r/ishantanu16/docker-twitter-sentiment-analyzer/](https://hub.docker.com/r/ishantanu16/docker-twitter-sentiment-analyzer/).
 3. GitHub URL for source code of the project: [https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib](https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib).
 5. Dockerfile GitHub repo: [https://github.com/iamShantanu101/docker-twitter-sentiment-analyzer](https://github.com/iamShantanu101/docker-twitter-sentiment-analyzer).
 
