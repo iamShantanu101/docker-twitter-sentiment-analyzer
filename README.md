@@ -1,5 +1,5 @@
 # docker-twitter-sentiment-analyzer
-[![](https://images.microbadger.com/badges/image/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)](https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2 "Get your own image badge on microbadger.com") 
+[![](https://images.microbadger.com/badges/image/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)](https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2 "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2.svg)](https://microbadger.com/images/ishantanu16/docker-twitter-sentiment-analyzer:1.6.2 "Get your own version badge on microbadger.com")
 
 Dockerfiles for ***Twitter sentiment analysis with Spark MLlib and visualization*** referenced by [https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib](https://github.com/iamShantanu101/Twitter-Sentiment-Analyzer-Apache-Spark-Mllib "» GitHub Repo").
 
